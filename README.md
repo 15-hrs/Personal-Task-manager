@@ -9,6 +9,12 @@ A Laravel mini project for managing personal tasks. The system allows users to c
 * **Course & Year:** BSIT 2nd Year, Section 7
 * **Database:** MySQL/MariaDB
 
+## Project Outputs
+![image alt](https://github.com/15-hrs/Personal-Task-manager/blob/77e3079d3ad434f49cc0526790689581d8e0e9bc/Output_Home.png)
+![image alt](https://github.com/15-hrs/Personal-Task-manager/blob/77e3079d3ad434f49cc0526790689581d8e0e9bc/Output_Task.png)
+
+
+
 ## Features
 
 * Add tasks
